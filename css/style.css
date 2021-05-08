@@ -480,6 +480,9 @@ input,textarea,select{
     color: #504e70;
     margin: 0;
 }
+.about .about-content .timeline .timeline-text ul{
+    color: #504e70;
+}
 /* Service Section */
 .service .container{
     padding-bottom: 40px;
